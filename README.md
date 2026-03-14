@@ -2,11 +2,19 @@
 
 Launch and manage a remote Chrome browser with web-based VNC access on Linux servers without a GUI.
 
-# Demo
+
+
+
+## Demo
 
 ![1](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162123.png?raw=true)
 ![2](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162148.png?raw=true)
 ![3](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162222.png?raw=true)
+
+## Installation
+
+`npx skills add kelvinschen/remote-chrome-skill`
+
 ## Why Use This?
 
 ### 🖥️ Remote Browser Access on Headless Servers
