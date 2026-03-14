@@ -2,6 +2,12 @@
 
 在无 GUI 的 Linux 服务器上启动和管理远程 Chrome 浏览器，支持基于 Web 的 VNC 访问。
 
+## Demo
+
+![1](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162123.png?raw=true)
+![2](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162148.png?raw=true)
+![3](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162222.png?raw=true)
+
 ## 为什么使用这个工具？
 
 ### 🖥️ 在无图形界面的服务器上访问远程浏览器
