@@ -8,6 +8,10 @@
 ![2](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162148.png?raw=true)
 ![3](https://github.com/kelvinschen/misc_resources/blob/main/screenshot-20260314-162222.png?raw=true)
 
+
+## 安装
+`npx skills add kelvinschen/remote-chrome-skill`
+
 ## 为什么使用这个工具？
 
 ### 🖥️ 在无图形界面的服务器上访问远程浏览器
