@@ -1,4 +1,4 @@
-# Open Remote Chrome Skill
+# Remote Chrome Skill
 
 在无 GUI 的 Linux 服务器上启动和管理远程 Chrome 浏览器，支持基于 Web 的 VNC 访问。
 
